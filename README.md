@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leandro Gonçalves 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-gon%C3%A7alves-54540b1bb/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leandrogs2003@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandevhtml&show_icons=true&theme=transparent)
 
