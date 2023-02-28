@@ -12,3 +12,8 @@
   <img align= "center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align= "center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align= "center" alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  
+  ## Um pouco sobre mim:
+  
+  Olá me chamo leandro tenho 20 anos, e sim sou apaixonado por programação desenvolvimento desde os meus 10 anos, então desde cedo venho procurando sobre ate que pode fazer a minha tao sonhada faculdade que agora estou cursando. e depois de mais velho e com algum de tempo vendo mais e mais sobre programação me apaixonei mais por ela e pretendo e vou virar um desenvolvedor full stack passo a passo vou chegar no meu tao sonhado objetivo de criança. Obriagdo pela sua ateação.
