@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leandro Gonçalves 👋
 
-[![Linkedin](https://www.linkedin.com/in/leandro-gon%C3%A7alves-6a177a289/)
+[Linkedin](https://www.linkedin.com/in/leandro-gon%C3%A7alves-6a177a289/)
 
 ![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandevhtml&show_icons=true&theme=transparent)
 
