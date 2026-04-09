@@ -15,4 +15,4 @@
   
   ## Um pouco sobre mim:
   
-  Olá me chamo Leandro tenho 22 anos, e sim sou apaixonado por programação desenvolvimento desde os meus 10 anos, então desde cedo venho procurando sobre. até que pude fazer a minha tao sonhada faculdade que agora estou formado, e depois de mais velho e com algum de tempo vendo mais e mais sobre programação me apaixonei mais por ela e pretendo e vou virar um desenvolvedor full stack passo a passo vou chegar no meu tão sonhado objetivo de criança. Obrigado pela sua ateação.
+  Olá me chamo Leandro tenho 23 anos, e sim sou apaixonado por programação desenvolvimento desde os meus 10 anos, então desde cedo venho procurando sobre. até que pude fazer a minha tao sonhada faculdade que agora estou formado, e depois de mais velho e com algum de tempo vendo mais e mais sobre programação me apaixonei mais por ela e pretendo e vou virar um desenvolvedor full stack passo a passo vou chegar no meu tão sonhado objetivo de criança. Obrigado pela sua ateação.
