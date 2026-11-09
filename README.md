@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leandro Gonçalves 👋
+### Olá! Eu sou o Leandro 👋
 
 ### Desenvolvedor web AI junior
 
